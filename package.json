@@ -21,7 +21,8 @@
     "log": "1.3.0",
     "connect": "2.3.4",
     "connect_router": "1.8.6",
-    "hubot-partychat-hooks": "0.x"
+    "hubot-partychat-hooks": "0.x",
+    "hubot": ">=2.0.0"
   },
 
   "main": "./index",
